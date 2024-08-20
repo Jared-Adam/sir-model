@@ -3,6 +3,8 @@
 
 This is an edit to see if the SSH connection works.
 
+Added another line.
+
 This is a test project to get used to using Git and GitHub.
 
 The purpose of this project is to create a frequency dependent SEIR model in R.
